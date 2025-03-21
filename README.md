@@ -1,1 +1,2 @@
 # Fitness_Tracker
+The Fitness Tracker App is an web based streamlit application using Python. It is designed to help users monitor their fitness activities, estimate calories burned, and receive personalized fitness recommendations. Leveraging machine learning (Random Forest Regressor), the app predicts calorie expenditure based on user input and provides tailored fitness suggestions considering health conditions, gender, and body metrics. It integrates real-time tracking, activity recognition, and gamification to enhance user engagement and fitness progress. 
